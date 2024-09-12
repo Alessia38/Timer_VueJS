@@ -1,5 +1,13 @@
-# Vue 3 + TypeScript + Vite
+# Timer en Vue JS
+Projet d'entrainement personnel.
+***
+## Description
+Ce projet est un chronomètre, servant ainsi à calculer la hauteur d’une falaise (ou de n’importe quoi de suffisamment haut) en fonction du temps de chute d’un objet jeter du haut de celle-ci. 
+Il vise à m'entrainer sur le framework VueJS.
+***
+## Technologies utilisées
+Le projet utilise :
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+* le framework VueJS 3
+***
+Ce projet est réalisé par [Alessia TORNABENE](https://github.com/Alessia38)
